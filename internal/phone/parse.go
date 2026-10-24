@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/yashwardhanv/dd/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
 )
 
 // maxMalformedKept is how many unparseable lines are remembered for diagnostics.

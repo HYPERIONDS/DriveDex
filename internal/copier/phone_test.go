@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/yashwardhanv/dd/internal/phone/phonetest"
+	"github.com/HYPERIONDS/DriveDex/internal/phone/phonetest"
 )
 
 const serial = "R58M1234ABC"

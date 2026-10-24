@@ -7,11 +7,11 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/yashwardhanv/dd/internal/config"
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/phone"
-	"github.com/yashwardhanv/dd/internal/portable"
-	"github.com/yashwardhanv/dd/internal/volume"
+	"github.com/HYPERIONDS/DriveDex/internal/config"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/phone"
+	"github.com/HYPERIONDS/DriveDex/internal/portable"
+	"github.com/HYPERIONDS/DriveDex/internal/volume"
 )
 
 // commandFor builds the process that re-indexes a target, and findDrivedex

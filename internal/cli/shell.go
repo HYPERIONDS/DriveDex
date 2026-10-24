@@ -11,8 +11,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/yashwardhanv/dd/internal/shellint"
-	"github.com/yashwardhanv/dd/internal/ui"
+	"github.com/HYPERIONDS/DriveDex/internal/shellint"
+	"github.com/HYPERIONDS/DriveDex/internal/ui"
 )
 
 // Hooks for the Windows registry and the running program's path (replaced in tests).

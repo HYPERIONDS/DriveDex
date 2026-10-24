@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/volume"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/volume"
 )
 
 // fakeDrive pretends a pen drive is plugged in at the given letter.

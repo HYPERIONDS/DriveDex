@@ -12,9 +12,9 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/yashwardhanv/dd/internal/copier"
-	"github.com/yashwardhanv/dd/internal/phone"
-	"github.com/yashwardhanv/dd/internal/ui"
+	"github.com/HYPERIONDS/DriveDex/internal/copier"
+	"github.com/HYPERIONDS/DriveDex/internal/phone"
+	"github.com/HYPERIONDS/DriveDex/internal/ui"
 )
 
 // copyChecks supplies the free-space / file-system queries (replaced in tests).

@@ -11,10 +11,10 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/query"
-	"github.com/yashwardhanv/dd/internal/ui"
-	"github.com/yashwardhanv/dd/internal/volume"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/query"
+	"github.com/HYPERIONDS/DriveDex/internal/ui"
+	"github.com/HYPERIONDS/DriveDex/internal/volume"
 )
 
 const searchLong = `Searches every saved index in memory - drives that are not plugged in are included

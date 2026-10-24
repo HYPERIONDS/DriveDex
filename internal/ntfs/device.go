@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/yashwardhanv/dd/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
 )
 
 // Sentinel errors. The Windows layer translates raw Windows error numbers into

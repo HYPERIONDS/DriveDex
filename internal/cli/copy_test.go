@@ -8,9 +8,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yashwardhanv/dd/internal/copier"
-	"github.com/yashwardhanv/dd/internal/phone"
-	"github.com/yashwardhanv/dd/internal/phone/phonetest"
+	"github.com/HYPERIONDS/DriveDex/internal/copier"
+	"github.com/HYPERIONDS/DriveDex/internal/phone"
+	"github.com/HYPERIONDS/DriveDex/internal/phone/phonetest"
 )
 
 // fakeChecks makes the free-space / file-system queries answer as given.

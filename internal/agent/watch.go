@@ -7,11 +7,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/phone"
-	"github.com/yashwardhanv/dd/internal/portable"
-	"github.com/yashwardhanv/dd/internal/ui"
-	"github.com/yashwardhanv/dd/internal/volume"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/phone"
+	"github.com/HYPERIONDS/DriveDex/internal/portable"
+	"github.com/HYPERIONDS/DriveDex/internal/ui"
+	"github.com/HYPERIONDS/DriveDex/internal/volume"
 )
 
 // Settings are the agent's options. (Stage 11 fills them from config.toml.)

@@ -12,9 +12,9 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/scan"
-	"github.com/yashwardhanv/dd/internal/ui"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/scan"
+	"github.com/HYPERIONDS/DriveDex/internal/ui"
 )
 
 // newBenchScanCmd implements `drivedex bench-scan <drive> --workers 1,2,4,8,16`.

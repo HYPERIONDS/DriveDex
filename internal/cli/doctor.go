@@ -12,16 +12,16 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/yashwardhanv/dd/internal/agent"
-	"github.com/yashwardhanv/dd/internal/config"
-	"github.com/yashwardhanv/dd/internal/copier"
-	"github.com/yashwardhanv/dd/internal/doctor"
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/install"
-	"github.com/yashwardhanv/dd/internal/ntfs"
-	"github.com/yashwardhanv/dd/internal/shellint"
-	"github.com/yashwardhanv/dd/internal/ui"
-	"github.com/yashwardhanv/dd/internal/volume"
+	"github.com/HYPERIONDS/DriveDex/internal/agent"
+	"github.com/HYPERIONDS/DriveDex/internal/config"
+	"github.com/HYPERIONDS/DriveDex/internal/copier"
+	"github.com/HYPERIONDS/DriveDex/internal/doctor"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/install"
+	"github.com/HYPERIONDS/DriveDex/internal/ntfs"
+	"github.com/HYPERIONDS/DriveDex/internal/shellint"
+	"github.com/HYPERIONDS/DriveDex/internal/ui"
+	"github.com/HYPERIONDS/DriveDex/internal/volume"
 )
 
 // Hooks for the parts of doctor that ask Windows questions (replaced in tests).

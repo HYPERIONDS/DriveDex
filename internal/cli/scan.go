@@ -11,9 +11,9 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/scan"
-	"github.com/yashwardhanv/dd/internal/ui"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/scan"
+	"github.com/HYPERIONDS/DriveDex/internal/ui"
 )
 
 // newScanCmd implements `drivedex scan <path>`: walk a folder or drive and

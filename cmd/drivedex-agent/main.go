@@ -11,7 +11,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/yashwardhanv/dd/internal/agent"
+	"github.com/HYPERIONDS/DriveDex/internal/agent"
 )
 
 // version is overridden at build time: go build -ldflags "-X main.version=v1.2.3"

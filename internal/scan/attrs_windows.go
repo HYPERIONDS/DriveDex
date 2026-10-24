@@ -6,7 +6,7 @@ import (
 	"io/fs"
 	"syscall"
 
-	"github.com/yashwardhanv/dd/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
 )
 
 // attrFlags converts Windows file attributes into index flags.

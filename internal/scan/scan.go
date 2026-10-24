@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yashwardhanv/dd/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
 )
 
 // Progress is a snapshot of a running scan, handed to the report callback.

@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yashwardhanv/dd/internal/portable"
+	"github.com/HYPERIONDS/DriveDex/internal/portable"
 )
 
 // fakeFolder is a folder on a pretend phone.

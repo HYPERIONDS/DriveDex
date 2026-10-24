@@ -9,10 +9,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yashwardhanv/dd/internal/doctor"
-	"github.com/yashwardhanv/dd/internal/phone"
-	"github.com/yashwardhanv/dd/internal/phone/phonetest"
-	"github.com/yashwardhanv/dd/internal/volume"
+	"github.com/HYPERIONDS/DriveDex/internal/doctor"
+	"github.com/HYPERIONDS/DriveDex/internal/phone"
+	"github.com/HYPERIONDS/DriveDex/internal/phone/phonetest"
+	"github.com/HYPERIONDS/DriveDex/internal/volume"
 )
 
 // fakeBench makes the speed test small and fast, and "the drive" a temp folder.

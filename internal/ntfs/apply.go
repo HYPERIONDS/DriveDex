@@ -3,8 +3,8 @@ package ntfs
 import (
 	"strings"
 
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/scan"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/scan"
 )
 
 // flagsFromAttrs converts Windows file attributes to index flags. Size and

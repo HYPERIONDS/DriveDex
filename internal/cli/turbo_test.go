@@ -8,10 +8,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/ntfs"
-	"github.com/yashwardhanv/dd/internal/ntfs/ntfstest"
-	"github.com/yashwardhanv/dd/internal/volume"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/ntfs"
+	"github.com/HYPERIONDS/DriveDex/internal/ntfs/ntfstest"
+	"github.com/HYPERIONDS/DriveDex/internal/volume"
 )
 
 // ntfsDrive is a fake NTFS pen drive whose "root" is a real temp folder, so

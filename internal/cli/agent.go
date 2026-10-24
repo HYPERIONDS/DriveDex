@@ -10,8 +10,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/yashwardhanv/dd/internal/agent"
-	"github.com/yashwardhanv/dd/internal/ui"
+	"github.com/HYPERIONDS/DriveDex/internal/agent"
+	"github.com/HYPERIONDS/DriveDex/internal/ui"
 )
 
 // Hooks for the operating-system parts of the agent commands (replaced in tests).

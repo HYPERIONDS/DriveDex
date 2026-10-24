@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/phone"
-	"github.com/yashwardhanv/dd/internal/scan"
-	"github.com/yashwardhanv/dd/internal/ui"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/phone"
+	"github.com/HYPERIONDS/DriveDex/internal/scan"
+	"github.com/HYPERIONDS/DriveDex/internal/ui"
 )
 
 // openADB finds adb and returns a handle for it. A variable so tests can

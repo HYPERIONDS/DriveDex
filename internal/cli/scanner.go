@@ -7,8 +7,8 @@ import (
 
 	"github.com/spf13/pflag"
 
-	"github.com/yashwardhanv/dd/internal/scan"
-	"github.com/yashwardhanv/dd/internal/volume"
+	"github.com/HYPERIONDS/DriveDex/internal/scan"
+	"github.com/HYPERIONDS/DriveDex/internal/volume"
 )
 
 // seekPenaltyFor asks Windows whether the drive holding a path is a spinning

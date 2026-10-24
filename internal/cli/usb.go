@@ -12,8 +12,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/yashwardhanv/dd/internal/ui"
-	"github.com/yashwardhanv/dd/internal/volume"
+	"github.com/HYPERIONDS/DriveDex/internal/ui"
+	"github.com/HYPERIONDS/DriveDex/internal/volume"
 )
 
 // Variables so tests can plug in a pretend USB drive.

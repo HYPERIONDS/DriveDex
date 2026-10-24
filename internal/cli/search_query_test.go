@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/yashwardhanv/dd/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
 )
 
 // makeTree writes a small folder with known names, sizes and dates, indexes it,

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yashwardhanv/dd/internal/shellint"
+	"github.com/HYPERIONDS/DriveDex/internal/shellint"
 )
 
 // memShell is an in-memory registry for the shell commands.

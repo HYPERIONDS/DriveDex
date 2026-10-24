@@ -9,10 +9,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/phone"
-	"github.com/yashwardhanv/dd/internal/phone/phonetest"
-	"github.com/yashwardhanv/dd/internal/scan"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/phone"
+	"github.com/HYPERIONDS/DriveDex/internal/phone/phonetest"
+	"github.com/HYPERIONDS/DriveDex/internal/scan"
 )
 
 func sampleOutput(t *testing.T) string {

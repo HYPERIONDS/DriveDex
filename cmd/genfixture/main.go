@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/yashwardhanv/dd/internal/fixture"
+	"github.com/HYPERIONDS/DriveDex/internal/fixture"
 )
 
 func main() {

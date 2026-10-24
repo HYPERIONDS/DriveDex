@@ -13,10 +13,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/ntfs"
-	"github.com/yashwardhanv/dd/internal/ntfs/ntfstest"
-	"github.com/yashwardhanv/dd/internal/scan"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/ntfs"
+	"github.com/HYPERIONDS/DriveDex/internal/ntfs/ntfstest"
+	"github.com/HYPERIONDS/DriveDex/internal/scan"
 )
 
 // populated returns a fake drive with a small but realistic tree.

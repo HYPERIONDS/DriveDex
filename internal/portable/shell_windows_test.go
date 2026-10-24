@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/yashwardhanv/dd/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
 )
 
 // The Shell code can't be tested with a phone in CI, but the Shell treats a

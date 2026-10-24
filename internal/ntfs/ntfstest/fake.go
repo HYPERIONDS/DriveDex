@@ -13,7 +13,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/yashwardhanv/dd/internal/ntfs"
+	"github.com/HYPERIONDS/DriveDex/internal/ntfs"
 )
 
 // Journal reason bits used by the fake (a subset of the real ones).

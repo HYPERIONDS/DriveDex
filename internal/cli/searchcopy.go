@@ -11,9 +11,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/yashwardhanv/dd/internal/copier"
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/ui"
+	"github.com/HYPERIONDS/DriveDex/internal/copier"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/ui"
 )
 
 // copyConfirmThreshold: copying more files than this asks first.

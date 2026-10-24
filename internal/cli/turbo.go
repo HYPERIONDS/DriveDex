@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/ntfs"
-	"github.com/yashwardhanv/dd/internal/ui"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/ntfs"
+	"github.com/HYPERIONDS/DriveDex/internal/ui"
 )
 
 // Hooks for the Windows-only NTFS calls, replaced by fakes in tests.

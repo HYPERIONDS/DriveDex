@@ -8,9 +8,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/tui"
-	"github.com/yashwardhanv/dd/internal/volume"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/tui"
+	"github.com/HYPERIONDS/DriveDex/internal/volume"
 )
 
 func TestTUINeedsATerminal(t *testing.T) {

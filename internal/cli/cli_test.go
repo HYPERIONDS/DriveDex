@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yashwardhanv/dd/internal/fixture"
-	"github.com/yashwardhanv/dd/internal/ui"
+	"github.com/HYPERIONDS/DriveDex/internal/fixture"
+	"github.com/HYPERIONDS/DriveDex/internal/ui"
 )
 
 // run executes the drivedex CLI in-process and returns what it printed.

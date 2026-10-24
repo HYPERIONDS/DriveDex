@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yashwardhanv/dd/internal/phone/phonetest"
+	"github.com/HYPERIONDS/DriveDex/internal/phone/phonetest"
 )
 
 // Regression tests for problems found while stress testing.

@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yashwardhanv/dd/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
 )
 
 // parseFixture feeds the sample file to a parser.

@@ -7,8 +7,8 @@ import (
 	"math"
 	"runtime"
 
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/scan"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/scan"
 )
 
 // MFTScanner indexes a whole NTFS drive by reading its master file table. It

@@ -9,8 +9,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yashwardhanv/dd/internal/agent"
-	"github.com/yashwardhanv/dd/internal/install"
+	"github.com/HYPERIONDS/DriveDex/internal/agent"
+	"github.com/HYPERIONDS/DriveDex/internal/install"
 )
 
 type memPath struct {

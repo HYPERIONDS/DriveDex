@@ -9,8 +9,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/phone/phonetest"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/phone/phonetest"
 )
 
 // runIn is run with something typed on the keyboard.

@@ -7,8 +7,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yashwardhanv/dd/internal/phone"
-	"github.com/yashwardhanv/dd/internal/phone/phonetest"
+	"github.com/HYPERIONDS/DriveDex/internal/phone"
+	"github.com/HYPERIONDS/DriveDex/internal/phone/phonetest"
 )
 
 // fakePhones makes `adb` report the given device lines, and answer file-list

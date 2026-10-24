@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yashwardhanv/dd/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
 )
 
 const samsung = `\\?\usb#vid_04e8&pid_6860&ms_comp_mtp&samsung_android#6&2b5c4a3c&0&0000#{6ac27878-a6fa-4155-ba85-f98f491d4f33}`

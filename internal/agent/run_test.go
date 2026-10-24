@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yashwardhanv/dd/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
 )
 
 // helperCommand makes ChildIndexer run THIS test binary (as TestHelperIndex)

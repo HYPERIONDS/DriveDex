@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/yashwardhanv/dd/internal/volume"
+	"github.com/HYPERIONDS/DriveDex/internal/volume"
 )
 
 // A USB 3 pen drive stuck in a USB 2.0 port, on a PC with two USB 3 ports.

@@ -17,8 +17,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yashwardhanv/dd/internal/ui"
-	"github.com/yashwardhanv/dd/internal/volume"
+	"github.com/HYPERIONDS/DriveDex/internal/ui"
+	"github.com/HYPERIONDS/DriveDex/internal/volume"
 )
 
 // Level is how serious a line is.

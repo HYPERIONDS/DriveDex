@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yashwardhanv/dd/internal/fixture"
-	"github.com/yashwardhanv/dd/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/fixture"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
 )
 
 // genTree makes a small fixture tree and returns its root and what was created.

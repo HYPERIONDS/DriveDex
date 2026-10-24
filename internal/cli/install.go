@@ -11,12 +11,12 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/yashwardhanv/dd/internal/agent"
-	"github.com/yashwardhanv/dd/internal/config"
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/install"
-	"github.com/yashwardhanv/dd/internal/shellint"
-	"github.com/yashwardhanv/dd/internal/ui"
+	"github.com/HYPERIONDS/DriveDex/internal/agent"
+	"github.com/HYPERIONDS/DriveDex/internal/config"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/install"
+	"github.com/HYPERIONDS/DriveDex/internal/shellint"
+	"github.com/HYPERIONDS/DriveDex/internal/ui"
 )
 
 // Hooks for the parts of install/uninstall that change Windows (replaced in tests).

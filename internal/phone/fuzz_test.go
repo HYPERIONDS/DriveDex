@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yashwardhanv/dd/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
 )
 
 // FuzzParser feeds arbitrary phone output through both line parsers. The

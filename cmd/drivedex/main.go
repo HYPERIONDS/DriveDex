@@ -9,7 +9,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/yashwardhanv/dd/internal/cli"
+	"github.com/HYPERIONDS/DriveDex/internal/cli"
 )
 
 // version is overridden at build time:

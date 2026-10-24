@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/yashwardhanv/dd/internal/agent"
-	"github.com/yashwardhanv/dd/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/agent"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
 )
 
 // agentEnv fakes the operating-system side of the agent commands.

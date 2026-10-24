@@ -6,8 +6,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/yashwardhanv/dd/internal/config"
-	"github.com/yashwardhanv/dd/internal/ui"
+	"github.com/HYPERIONDS/DriveDex/internal/config"
+	"github.com/HYPERIONDS/DriveDex/internal/ui"
 )
 
 // activeConfig is the settings in force for the current command. It is loaded

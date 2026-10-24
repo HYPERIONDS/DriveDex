@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/yashwardhanv/dd/internal/phone"
+	"github.com/HYPERIONDS/DriveDex/internal/phone"
 )
 
 // Fake is a phone.Runner whose answers come from a Handler function.

@@ -9,7 +9,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/yashwardhanv/dd/internal/config"
+	"github.com/HYPERIONDS/DriveDex/internal/config"
 )
 
 // openEditor opens a text file for the user. A variable so tests don't start Notepad.

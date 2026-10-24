@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yashwardhanv/dd/internal/scan"
+	"github.com/HYPERIONDS/DriveDex/internal/scan"
 )
 
 // fakeDriveType makes chooseScanner believe the drive is an HDD / flash / unknown.

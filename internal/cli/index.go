@@ -10,12 +10,12 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/yashwardhanv/dd/internal/agent"
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/phone"
-	"github.com/yashwardhanv/dd/internal/portable"
-	"github.com/yashwardhanv/dd/internal/scan"
-	"github.com/yashwardhanv/dd/internal/ui"
+	"github.com/HYPERIONDS/DriveDex/internal/agent"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/phone"
+	"github.com/HYPERIONDS/DriveDex/internal/portable"
+	"github.com/HYPERIONDS/DriveDex/internal/scan"
+	"github.com/HYPERIONDS/DriveDex/internal/ui"
 )
 
 // newIndexCmd implements `drivedex index <path>`: scan once, save the result,

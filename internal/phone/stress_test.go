@@ -4,7 +4,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/yashwardhanv/dd/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
 )
 
 // Paths with "//", "./" or "../" in them used to create folders with empty

@@ -8,8 +8,8 @@ import (
 	"io"
 	"strings"
 
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/scan"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/scan"
 )
 
 // DefaultRoot is the phone's shared storage. (The trailing slash matters: it

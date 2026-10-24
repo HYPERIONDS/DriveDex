@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/yashwardhanv/dd/internal/portable"
-	"github.com/yashwardhanv/dd/internal/volume"
+	"github.com/HYPERIONDS/DriveDex/internal/portable"
+	"github.com/HYPERIONDS/DriveDex/internal/volume"
 )
 
 // TestMain keeps every test away from the real settings file: DriveDex creates

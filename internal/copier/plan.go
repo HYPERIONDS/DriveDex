@@ -25,8 +25,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/scan"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/scan"
 )
 
 // Conflict policies for files that already exist at the destination.

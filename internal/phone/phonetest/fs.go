@@ -12,7 +12,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/yashwardhanv/dd/internal/phone"
+	"github.com/HYPERIONDS/DriveDex/internal/phone"
 )
 
 // File is one file on the fake phone.

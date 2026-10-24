@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/yashwardhanv/dd/internal/index"
-	"github.com/yashwardhanv/dd/internal/ui"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/ui"
 )
 
 // openStore opens the folder where indexes are saved.

@@ -14,8 +14,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/yashwardhanv/dd/internal/fixture"
-	"github.com/yashwardhanv/dd/internal/ui"
+	"github.com/HYPERIONDS/DriveDex/internal/fixture"
+	"github.com/HYPERIONDS/DriveDex/internal/ui"
 )
 
 // fastOpts keeps retries quick in tests.

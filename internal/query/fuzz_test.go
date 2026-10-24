@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/yashwardhanv/dd/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
 )
 
 // FuzzParse: any search text either parses or gives a *SyntaxError, and a

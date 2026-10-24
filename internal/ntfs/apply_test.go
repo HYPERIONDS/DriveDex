@@ -5,7 +5,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/yashwardhanv/dd/internal/index"
+	"github.com/HYPERIONDS/DriveDex/internal/index"
 )
 
 const root = uint64(0x0005000000000005) // the root folder's file reference number
