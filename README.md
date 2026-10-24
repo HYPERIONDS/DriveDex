@@ -10,10 +10,10 @@ A single Windows program written in Go (no CGO, no extra DLLs).
      Also worth showing:  drivedex search "ext:jpg size:>2mb"   and   drivedex copy ...
   3. Stop, trim, save as docs/demo.gif (keep it under ~5 MB: 10-15 s, 800 px wide), then
      replace this comment with:   ![DriveDex demo](docs/demo.gif)
--->
+
 
 > 📽️ *Demo GIF to be added — see the comment in this file's source for how to record it.*
-
+-->
 ## The problem
 
 - **Searching an external drive is slow or impossible.** Windows Explorer re-reads the drive on every search (minutes on a USB hard disk), and finds nothing at all when the drive is in the drawer.
